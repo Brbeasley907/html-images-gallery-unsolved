@@ -40,7 +40,7 @@ This assignment should prove that a student is able to:
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
+- [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (~160mb will be downloaded)
@@ -68,20 +68,20 @@ This assignment should prove that a student is able to:
 - [x] Connect the layout.css file
 - [x] Connect the images-list.css file
 - [x] Add the image file path for each gallery item's image
-      [x]- Plants: plant-image.jpg
-      [x]- Nature: nature-image.jpg
-      [x]- Modern Design: design-image.jpg
-      [x]- Space: space-image.jpg
+  - Plants: plant-image.jpg
+  - Nature: nature-image.jpg
+  - Modern Design: design-image.jpg
+  - Space: space-image.jpg
 - [x] Add the detail page path for each gallery item's "Details" link:
-      [x]- Plants: plants.html
-      [x]- Nature: nature.html
-      [x]- Modern Design: modern-design.html
-      [x]- Space: space.html
+  - Plants: plants.html
+  - Nature: nature.html
+  - Modern Design: modern-design.html
+  - Space: space.html
 - [x] Add the detail page path for each top navigation item:
-      [x]- Plants: plants.html
-      [x]- Nature: nature.html
-      [x]- Modern Design: modern-design.html
-      [x]- Space: space.html
+  - Plants: plants.html
+  - Nature: nature.html
+  - Modern Design: modern-design.html
+  - Space: space.html
 
 **For each page:**
 
@@ -89,23 +89,23 @@ This assignment should prove that a student is able to:
 - [x] Connect the layout.css file
 - [x] Connect the image-detail.css file
 - [x] Add the path to the image to let it show up
-      [x]- Plants: plant-image.jpg
-      [x]- Nature: nature-image.jpg
-      [x]- Modern Design: design-image.jpg
-      [x]- Space: space-image.jpg
+  - Plants: plant-image.jpg
+  - Nature: nature-image.jpg
+  - Modern Design: design-image.jpg
+  - Space: space-image.jpg
 - [x] Add the detail page path for each top navigation item:
-      [x]- Plants: plants.html
-      [x]- Nature: nature.html
-      [x]- Modern Design: modern-design.html
-      [x]- Space: space.html
+  - Plants: plants.html
+  - Nature: nature.html
+  - Modern Design: modern-design.html
+  - Space: space.html
 - [x] Add the path to the index.html file for the "Back to Home Page" link
 - [x] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
-      [x]- [More Plants Images](https://unsplash.com/s/photos/plants)
-      [x]- [More Nature Images](https://unsplash.com/s/photos/nature)
-      [x]- [More Space Images](https://unsplash.com/s/photos/space)
-      [x]- [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
+  - [More Plants Images](https://unsplash.com/s/photos/plants)
+  - [More Nature Images](https://unsplash.com/s/photos/nature)
+  - [More Space Images](https://unsplash.com/s/photos/space)
+  - [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
 - [x] Add the detail page path for each bottom navigation item:
-      [x]- Plants: plants.html
-      [x]- Nature: nature.html
-      [x]- Modern Design: modern-design.html
-      [x]- Space: space.html
+  - Plants: plants.html
+  - Nature: nature.html
+  - Modern Design: modern-design.html
+  - Space: space.html
